@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://portfolio-6de91.web.app/)
 
-- 📫 How to reach me **t.me/spacecowboii**
+- 📫 How to reach [me](t.me/spacecowboii)
 
 - ⚡ Fun fact **Turkish word for Turkey is Hindi**
 
