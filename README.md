@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AngularJS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-6de91.web.app/](https://portfolio-6de91.web.app/)
+- 👨‍💻 All of my projects are available [here](https://portfolio-6de91.web.app/)
 
 - 📫 How to reach me **t.me/spacecowboii**
 
