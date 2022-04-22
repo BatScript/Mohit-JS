@@ -7,7 +7,7 @@ I'm UI developer Intern @ Lybrate
 I am a MERN stack developer growing every day to become the best in this field.
 
 * 🌍  I'm based in Madhubani, bihar
-* 🖥️  See my portfolio at [here](https://devmohit.devfolio.io)
+* 🖥️  See my portfolio at [here](https://mohit.devfolio.io)
 * ✉️  You can contact me at [mohit80940@gmail.com](mailto:mohit80940@gmail.com)
 * 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on Web applications on MERN + Angular
