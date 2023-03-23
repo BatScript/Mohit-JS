@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohit
 ======================
 
-I'm UI developer Intern @ Lybrate
+I ❤️ Javascript
 ---------------------------------
 
 I am a MERN stack developer growing every day to become the best in this field.
